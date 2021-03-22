@@ -1,7 +1,5 @@
-Hallo, ich bin cool xD
-
-
-
-
-
-
+#include<stdio.h>
+int main(){
+  printf("Hallo");
+return 0;
+}
